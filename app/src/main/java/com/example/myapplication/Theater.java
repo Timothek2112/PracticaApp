@@ -75,7 +75,7 @@ public class Theater extends AppCompatActivity {
 
 
 
- 
+
     protected ArrayList<String[]> doInBackground(String... params) {
         ArrayList<String[]> res=new ArrayList <>();
         HttpURLConnection myConnection = null;
